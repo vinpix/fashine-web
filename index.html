@@ -1,12 +1,47 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <!-- If serving your web app in a path other than the root, update the base href accordingly -->
     <base href="/" />
 
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
-    <meta name="description" content="A new Flutter project." />
+    <meta
+      name="description"
+      content="Fashine – an AI-powered outfit assistant that helps you plan, score, and analyze your style effortlessly."
+    />
+    <meta
+      name="keywords"
+      content="Fashine, AI, fashion, outfit planning, style, wardrobe"
+    />
+    <meta name="robots" content="index, follow" />
+
+    <!-- Open Graph / Facebook -->
+    <meta
+      property="og:title"
+      content="Fashine – Your AI-Powered Outfit Assistant"
+    />
+    <meta
+      property="og:description"
+      content="Plan, score, and analyze your wardrobe with Fashine. Get personalized style advice with ease."
+    />
+    <meta property="og:image" content="path_to_your_image.jpg" />
+    <meta property="og:url" content="https://yourwebsite.com" />
+    <meta property="og:type" content="website" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="Fashine – Your AI-Powered Outfit Assistant"
+    />
+    <meta
+      name="twitter:description"
+      content="Plan, score, and analyze your wardrobe with Fashine. Get personalized style advice with ease."
+    />
+    <meta name="twitter:image" content="path_to_your_image.jpg" />
+
+    <!-- Canonical Link -->
+    <link rel="canonical" href="https://yourwebsite.com" />
 
     <!-- iOS meta tags & icons -->
     <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -19,6 +54,21 @@
 
     <title>fashine_web</title>
     <link rel="manifest" href="manifest.json" />
+
+    <!-- Optional: Structured Data (Schema Markup) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "MobileApplication",
+        "name": "Fashine",
+        "operatingSystem": "iOS, Android",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "5.0",
+          "ratingCount": "100"
+        }
+      }
+    </script>
   </head>
   <body>
     <script>
