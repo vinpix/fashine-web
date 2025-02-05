@@ -33789,7 +33789,7 @@ if(r.$2(a,j)>0){s[b]=j
 b=o}}s[b]=a}}
 A.nH.prototype={
 L(a){var s=null
-return A.aiq(new A.r1(B.Nw,new A.Lo(s,s,1/0,56),s),s,B.xt)}}
+return A.aiq(new A.r1(B.Nx,new A.Lo(s,s,1/0,56),s),s,B.xt)}}
 A.DG.prototype={
 L(a){var s=null,r=A.ae0(s,s,"Sora",B.ES,s)
 return new A.un(B.Aq,A.a([$.acc()],t.tc),"Fashine | Download Today",r,s)}}
@@ -33801,7 +33801,7 @@ return A.hG(s,A.eZ(A.a([A.eZ(A.a([new A.B5(A.ll(12),A.ok("assets/images/appLogo1
 Zi(){return new A.m4(new A.a75(this),null)},
 a_Q(a){return new A.cz(B.A3,new A.m4(new A.a7g(),null),null)},
 a4K(){var s=null,r=t.D
-return new A.cz(B.zY,A.dl(A.a([A.eZ(A.a([A.ah4(s,B.AE,new A.a7j(),s,s),B.JN],r),B.H,B.v,B.E),B.uR,A.a4k(B.FG,8),B.dl,new A.m4(new A.a7k(this),s),B.IW],r),B.a_,B.v,B.E),this.e)},
+return new A.cz(B.zY,A.dl(A.a([A.eZ(A.a([A.ah4(s,B.AE,new A.a7j(),s,s),B.JN],r),B.H,B.v,B.E),B.uR,A.a4k(B.FH,8),B.dl,new A.m4(new A.a7k(this),s),B.IW],r),B.a_,B.v,B.E),this.e)},
 Zj(){var s=null,r="Elevate your style with Fashine \u2013 your AI-powered outfit assistant. Discover the latest trends and receive personalized fashion advice to transform your wardrobe.",q=A.ll(16),p=A.a([new A.fJ(0,B.f2,A.X(B.c.a_(76.5),0,0,0),B.Fm,12)],t.sq),o=new A.bz(A.X(51,255,255,255),1,B.L,-1)
 return A.rk(A.hG(s,A.dl(A.a([B.JQ,B.dl,A.f0(A.fz(r,s,s,s,s,s,s,s,A.f1(s,s,A.X(B.c.a_(229.5),255,255,255),s,s,s,s,s,s,s,s,18,s,s,s,s,1.4,!0,s,s,s,s,s,s,s,s),B.bf,s,s),r),B.IY,A.aq5(B.AD,B.JR,new A.a76(),A.aq6(s,s,B.B,s,s,s,8,s,s,s,s,s,B.A0,B.xE,new A.cB(A.ll(12),B.o),s,s,s,s))],t.D),B.H,B.v,B.bH),B.u,s,s,new A.du(s,s,new A.cY(o,o,o,o),q,p,B.B9,B.aA),s,s,B.A2,B.jz,s,s,s),s,s)},
 L(a){var s=this,r=null,q=" Fashine. All rights reserved.",p=t.D,o=A.FZ(A.kx(B.bm,A.a([s.a_Q(a)],p),B.be),r,r),n=A.hG(r,new A.cz(B.jz,A.dl(A.a([B.i2,s.Zi(),B.IX,A.rk(s.a4K(),r,r),B.i2,s.Zj(),B.i2],p),B.a_,B.v,B.bH),r),B.u,B.i,r,r,r,r,r,r,r,r,1/0),m=Date.now()
@@ -33855,8 +33855,8 @@ $2(a,b){var s,r,q=null,p="When you use Fashine, many things happen. First, our A
 o=this.a
 s=t.D
 r=A.a([o.o7("Outfit Suggest","Suggest an outfit based on context",B.Aw,m,B.EN,"Use this tool to craft the perfect outfit from your virtual wardrobe! You can mix and match pieces you already own, discover new ways to style them, or refine suggestions and save favorites.",!0,new A.a6Z(),!1),o.o7("Outfit Score","Score your outfits and give advice",B.AY,m,B.EP,"This tool helps you evaluate your outfits and receive feedback on their style, fit, and overall appearance. Simply upload a photo of your outfit, and the tool will analyze the clothing pieces you're wearing, providing a detailed score and suggestions for improvement.",!0,new A.a7_(),!1),o.Ig("Style Analyze","Analyze and describe the outfit",B.Ay,m,B.EL,"By simply taking a photo of your outfit, this tool will analyze the clothing pieces you're wearing and provide a detailed description of the entire look. It will identify individual items such as tops, pants, shoes, and accessories, and deliver key insights about the style, color scheme, and fit.",new A.a70(),!1),o.o7("Try On","Experiment and get AI feedback",B.Ax,m,B.ec,"Experiment with your outfits and receive AI feedback. Upload a photo, get suggestions for improvement, and enhance your personal style.",!0,new A.a71(),!1),o.Ig("Item Fit","Find outfits matching the item",B.AW,m,B.EO,"Find clothes that match a specific item in your wardrobe. Simply upload a photo of the item, and the tool will suggest outfit combinations that complement it.",new A.a72(),!1),o.a_X("Outfit Planning","Schedule outfits, avoid repetition.",B.AV,m,B.EM,"Plan your outfits in advance, so you can avoid repeating the same look. Schedule outfits for days, occasions, or events, and set reminders to stay organized.",new A.a73())],s)
-if(n)return A.eZ(A.a([A.o7(A.dl(A.a([A.a4k(B.FH,8),B.dl,A.f0(A.aco(p,9,A.f1(q,q,A.X(204,0,0,0),q,q,q,q,q,q,q,q,16,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),B.bP),p)],s),B.a_,B.v,B.E),1),B.IU,A.o7(new A.qX(A.aj9(A.aow(new A.a74(),r,B.jw),15,15),q),1)],s),B.a_,B.v,B.E)
-else return A.dl(A.a([A.a4k(B.FI,8),B.dl,A.f0(A.aco(p,7,A.f1(q,q,A.X(204,0,0,0),q,q,q,q,q,q,q,q,16,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),B.bP),p),B.dl,A.aj9(r,15,15)],s),B.a_,B.v,B.E)},
+if(n)return A.eZ(A.a([A.o7(A.dl(A.a([A.a4k(B.FI,8),B.dl,A.f0(A.aco(p,9,A.f1(q,q,A.X(204,0,0,0),q,q,q,q,q,q,q,q,16,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),B.bP),p)],s),B.a_,B.v,B.E),1),B.IU,A.o7(new A.qX(A.aj9(A.aow(new A.a74(),r,B.jw),15,15),q),1)],s),B.a_,B.v,B.E)
+else return A.dl(A.a([A.a4k(B.FJ,8),B.dl,A.f0(A.aco(p,7,A.f1(q,q,A.X(204,0,0,0),q,q,q,q,q,q,q,q,16,q,q,q,q,q,!0,q,q,q,q,q,q,q,q),B.bP),p),B.dl,A.aj9(r,15,15)],s),B.a_,B.v,B.E)},
 $S:108}
 A.a6Z.prototype={
 $0(){},
@@ -33881,8 +33881,8 @@ $1(a){return new A.mX(70,0,new A.tq(a,null),null)},
 $S:261}
 A.a7g.prototype={
 $2(a,b){var s="Introducing FASHINE, the AI-powered app that simplifies your style decisions. Snap a photo of your outfit for instant insights\u2014color breakdowns, style scores, and personalized tips. Plan your looks, match new pieces effortlessly, and find fresh inspiration\u2014all in one smart app!",r=null,q="Download on iOS",p="https://apps.apple.com/app/id6503635048",o="assets/images/appStoreButton.webp",n="Download on Android",m=u.X,l="assets/images/googlePlayButton.webp",k=t.D
-if(b.b>800)return A.eZ(A.a([A.o7(A.dl(A.a([B.v4,B.IZ,A.a4k(B.FJ,8),B.eG,A.f0(A.aco(s,5,A.f1(r,r,A.X(204,255,255,255),r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.bP),s),B.eH,A.eZ(A.a([new A.fo(A.tX(!1,!0,A.ok(o,r,65,r),r,!0,r,r,r,r,r,r,r,r,r,new A.a7c(),r,r,r,r),q,p,r),B.uP,new A.fo(A.tX(!1,!0,A.ok(l,r,65,r),r,!0,r,r,r,r,r,r,r,r,r,new A.a7d(),r,r,r,r),n,m,r)],k),B.H,B.v,B.E)],k),B.a_,B.v,B.E),1),B.IS,A.o7(A.dl(A.a([A.ok("assets/images/sample 2.webp",B.dx,r,r),A.hG(r,B.v3,B.u,A.X(B.c.a_(76.5),0,0,0),r,r,r,r,r,B.dS,r,r,r)],k),B.H,B.v,B.E),1)],k),B.H,B.v,B.E)
-else return A.dl(A.a([B.v4,B.uS,B.JT,B.eG,B.JL,B.eH,A.rk(A.eZ(A.a([new A.fo(A.tX(!1,!0,A.ok(o,r,r,150),r,!0,r,r,r,r,r,r,r,r,r,new A.a7e(),r,r,r,r),q,p,r),B.uP,new A.fo(A.tX(!1,!0,A.ok(l,r,r,150),r,!0,r,r,r,r,r,r,r,r,r,new A.a7f(),r,r,r,r),n,m,r)],k),B.H,B.d4,B.E),r,r),B.eH,A.rk(A.dl(A.a([A.ok("assets/images/sample.webp",B.dx,r,r),A.hG(r,B.v3,B.u,A.X(B.c.a_(76.5),0,0,0),r,r,r,r,r,B.dS,r,r,r)],k),B.H,B.v,B.E),r,r)],k),B.a_,B.v,B.E)},
+if(b.b>800)return A.eZ(A.a([A.o7(A.dl(A.a([B.v4,B.IZ,A.a4k(B.FG,8),B.eG,A.f0(A.aco(s,5,A.f1(r,r,A.X(204,255,255,255),r,r,r,r,r,r,r,r,16,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.bP),s),B.eH,A.eZ(A.a([new A.fo(A.tX(!1,!0,A.ok(o,r,65,r),r,!0,r,r,r,r,r,r,r,r,r,new A.a7c(),r,r,r,r),q,p,r),B.uP,new A.fo(A.tX(!1,!0,A.ok(l,r,65,r),r,!0,r,r,r,r,r,r,r,r,r,new A.a7d(),r,r,r,r),n,m,r)],k),B.H,B.v,B.E)],k),B.a_,B.v,B.E),1),B.IS,A.o7(A.dl(A.a([A.ok("assets/images/sample 2.webp",B.dx,r,r),A.hG(r,B.v3,B.u,A.X(B.c.a_(76.5),0,0,0),r,r,r,r,r,B.dS,r,r,r)],k),B.H,B.v,B.E),1)],k),B.H,B.v,B.E)
+else return A.dl(A.a([B.v4,B.uS,B.JU,B.eG,B.JL,B.eH,A.rk(A.eZ(A.a([new A.fo(A.tX(!1,!0,A.ok(o,r,r,150),r,!0,r,r,r,r,r,r,r,r,r,new A.a7e(),r,r,r,r),q,p,r),B.uP,new A.fo(A.tX(!1,!0,A.ok(l,r,r,150),r,!0,r,r,r,r,r,r,r,r,r,new A.a7f(),r,r,r,r),n,m,r)],k),B.H,B.d4,B.E),r,r),B.eH,A.rk(A.dl(A.a([A.ok("assets/images/sample.webp",B.dx,r,r),A.hG(r,B.v3,B.u,A.X(B.c.a_(76.5),0,0,0),r,r,r,r,r,B.dS,r,r,r)],k),B.H,B.v,B.E),r,r)],k),B.a_,B.v,B.E)},
 $S:108}
 A.a7c.prototype={
 $0(){var s=0,r=A.T(t.H),q
@@ -68012,21 +68012,21 @@ B.FD=new A.E6(0,"portrait")
 B.FE=new A.E6(1,"landscape")
 B.FF=new A.uM(null)
 B.dR=new A.b0(10,0,0,0)
-B.v8=new A.n(!0,B.l,null,null,null,null,40,B.aq,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Nz=new A.cf("What People Think",null,B.v8,null,B.aa,null,null,null,null,null,null,null,null)
-B.JS=new A.d5(B.Nz,"What People Think",null)
+B.KW=new A.n(!0,B.i,null,null,null,null,40,B.aq,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.Nt=new A.cf("Digitize Your Wardrobe",null,B.KW,null,B.aa,null,null,null,null,null,null,null,null)
+B.JS=new A.d5(B.Nt,"Digitize Your Wardrobe",null)
 B.FG=new A.cz(B.dR,B.JS,null)
+B.v8=new A.n(!0,B.l,null,null,null,null,40,B.aq,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.NA=new A.cf("What People Think",null,B.v8,null,B.aa,null,null,null,null,null,null,null,null)
+B.JT=new A.d5(B.NA,"What People Think",null)
+B.FH=new A.cz(B.dR,B.JT,null)
 B.K7=new A.n(!0,B.l,null,null,null,null,32,B.aq,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.NK=new A.cf("How does Fashine Work",null,B.K7,null,B.aa,null,null,null,null,null,null,null,null)
 B.JO=new A.d5(B.NK,"How does Fashine Work",null)
-B.FI=new A.cz(B.dR,B.JO,null)
+B.FJ=new A.cz(B.dR,B.JO,null)
 B.NL=new A.cf("How does Fashine Work",null,B.v8,null,B.aa,null,null,null,null,null,null,null,null)
 B.JP=new A.d5(B.NL,"How does Fashine Work",null)
-B.FH=new A.cz(B.dR,B.JP,null)
-B.KW=new A.n(!0,B.i,null,null,null,null,40,B.aq,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.NC=new A.cf("Digitalize Your Wardrobe",null,B.KW,null,B.aa,null,null,null,null,null,null,null,null)
-B.JU=new A.d5(B.NC,"Digitalize Your Wardrobe",null)
-B.FJ=new A.cz(B.dR,B.JU,null)
+B.FI=new A.cz(B.dR,B.JP,null)
 B.cc=new A.Ec(0,"fill")
 B.b9=new A.Ec(1,"stroke")
 B.FK=new A.kd(1/0)
@@ -68117,8 +68117,8 @@ B.NH=new A.cf("Contact: kiet57441@gmail.com",null,B.eI,null,null,null,null,null,
 B.Bb=new A.fo(B.NH,"Contact: kiet57441@gmail.com","mailto:kiet57441@gmail.com",null)
 B.eF=new A.c7(10,null,null,null)
 B.v9=new A.n(!0,B.i,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Ny=new A.cf("|",null,B.v9,null,null,null,null,null,null,null,null,null,null)
-B.v5=new A.d5(B.Ny,"|",null)
+B.Nz=new A.cf("|",null,B.v9,null,null,null,null,null,null,null,null,null,null)
+B.v5=new A.d5(B.Nz,"|",null)
 B.Au=new A.dP(57648,"MaterialIcons",null,!1)
 B.AC=new A.jS(B.Au,18,B.i,null,null)
 B.IT=new A.c7(5,null,null,null)
@@ -68128,10 +68128,10 @@ B.GV=new A.mI(B.aG,B.v,B.bH,B.H,null,B.bk,null,B.Cb,null)
 B.Bc=new A.fo(B.GV,"Instagram","https://www.instagram.com/fashine.app/",null)
 B.BQ=A.a(s([B.Bb,B.eF,B.v5,B.eF,B.Bc]),t.D)
 B.GW=new A.mI(B.aG,B.d4,B.E,B.H,null,B.bk,null,B.BQ,null)
-B.Nx=new A.cf("Privacy Policy",null,B.eI,null,null,null,null,null,null,null,null,null,null)
-B.Bd=new A.fo(B.Nx,"Privacy Policy","https://sites.google.com/view/fashine-privacy-policy/home",null)
-B.Nu=new A.cf("Terms of Use",null,B.eI,null,null,null,null,null,null,null,null,null,null)
-B.Ba=new A.fo(B.Nu,"Terms of Use","https://sites.google.com/view/fashine-term-of-use/home",null)
+B.Ny=new A.cf("Privacy Policy",null,B.eI,null,null,null,null,null,null,null,null,null,null)
+B.Bd=new A.fo(B.Ny,"Privacy Policy","https://sites.google.com/view/fashine-privacy-policy/home",null)
+B.Nv=new A.cf("Terms of Use",null,B.eI,null,null,null,null,null,null,null,null,null,null)
+B.Ba=new A.fo(B.Nv,"Terms of Use","https://sites.google.com/view/fashine-term-of-use/home",null)
 B.CK=A.a(s([B.Bd,B.eF,B.v5,B.eF,B.Ba]),t.D)
 B.GX=new A.mI(B.aG,B.d4,B.E,B.H,null,B.bk,null,B.CK,null)
 B.GY=new A.Fn(null,null)
@@ -68404,19 +68404,19 @@ B.JI=new A.j4(4,"header4")
 B.JJ=new A.j4(5,"header5")
 B.JK=new A.j4(6,"header6")
 B.Ki=new A.n(!0,B.i,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.NA=new A.cf(u.x,null,B.Ki,null,B.aa,null,null,null,null,null,null,null,null)
-B.JL=new A.d5(B.NA,u.x,null)
+B.NB=new A.cf(u.x,null,B.Ki,null,B.aa,null,null,null,null,null,null,null,null)
+B.JL=new A.d5(B.NB,u.x,null)
 B.yL=new A.k(4294309365)
 B.yF=new A.k(4293848814)
 B.yw=new A.k(4292269782)
 B.Ey=new A.bJ([50,B.jk,100,B.yL,200,B.yF,300,B.ji,350,B.yw,400,B.fA,500,B.jg,600,B.cJ,700,B.fx,800,B.ft,850,B.cI,900,B.fr],t.m)
 B.ER=new A.k7(B.Ey,4288585374)
 B.Mc=new A.n(!0,B.ER,null,null,null,null,14,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.NB=new A.cf("5.0",null,B.Mc,null,null,null,null,null,null,null,null,null,null)
-B.v2=new A.d5(B.NB,"5.0",null)
+B.NC=new A.cf("5.0",null,B.Mc,null,null,null,null,null,null,null,null,null,null)
+B.v2=new A.d5(B.NC,"5.0",null)
 B.LQ=new A.n(!0,B.ec,null,null,null,null,18,B.aq,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Nt=new A.cf("FASHINE",null,B.LQ,null,null,null,null,null,null,null,null,null,null)
-B.JM=new A.d5(B.Nt,"FASHINE",null)
+B.Nu=new A.cf("FASHINE",null,B.LQ,null,null,null,null,null,null,null,null,null,null)
+B.JM=new A.d5(B.Nu,"FASHINE",null)
 B.KX=new A.n(!0,B.i,null,null,null,null,18,B.aq,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.NG=new A.cf("Back",null,B.KX,null,null,null,null,null,null,null,null,null,null)
 B.JN=new A.d5(B.NG,"Back",null)
@@ -68429,14 +68429,14 @@ B.Cd=A.a(s([B.HX]),t.kO)
 B.KF=new A.n(!0,B.i,null,null,null,null,32,B.aq,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.Cd,null,null,null)
 B.NJ=new A.cf("Download Fashine Today",null,B.KF,null,B.bf,null,null,null,null,null,null,null,null)
 B.JQ=new A.d5(B.NJ,"Download Fashine Today",null)
-B.Nv=new A.cf("Download",null,B.v9,null,null,null,null,null,null,null,null,null,null)
-B.JR=new A.d5(B.Nv,"Download",null)
+B.Nw=new A.cf("Download",null,B.v9,null,null,null,null,null,null,null,null,null,null)
+B.JR=new A.d5(B.Nw,"Download",null)
 B.K_=new A.n(!0,B.p3,null,null,null,null,20,B.aq,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.NE=new A.cf("FASHINE",null,B.K_,null,null,null,null,null,null,null,null,null,null)
 B.v4=new A.d5(B.NE,"FASHINE",null)
 B.KY=new A.n(!0,B.i,null,null,null,null,28,B.aq,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.ND=new A.cf("Digitalize Your Wardrobe",null,B.KY,null,B.aa,null,null,null,null,null,null,null,null)
-B.JT=new A.d5(B.ND,"Digitalize Your Wardrobe",null)
+B.JU=new A.d5(B.ND,"Digitalize Your Wardrobe",null)
 B.v6=new A.Gw(0,"left")
 B.v7=new A.Gw(1,"right")
 B.JV=new A.wl(null,null,null)
@@ -68659,7 +68659,7 @@ B.MH=new A.n(!0,B.B,null,"Roboto",B.D,null,null,null,null,null,null,null,null,nu
 B.M7=new A.n(!0,B.l,null,"Roboto",B.D,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackHelsinki labelMedium",null,null,null,null)
 B.Mi=new A.n(!0,B.l,null,"Roboto",B.D,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"blackHelsinki labelSmall",null,null,null,null)
 B.Ns=new A.di(B.N_,B.KA,B.Lq,B.M6,B.Mk,B.K3,B.L4,B.K9,B.LV,B.Mw,B.Lw,B.Mx,B.MH,B.M7,B.Mi)
-B.Nw=new A.cf("Blog",null,null,null,null,null,null,null,null,null,null,null,null)
+B.Nx=new A.cf("Blog",null,null,null,null,null,null,null,null,null,null,null,null)
 B.Q3=new A.a3G(0,"system")
 B.NN=new A.wo(null)
 B.NO=new A.wq(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
